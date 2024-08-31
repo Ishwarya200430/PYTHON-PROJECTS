@@ -1,12 +1,11 @@
-To create a README file for your project, you'll want to include sections that provide clear instructions on what the project is, how to install the necessary dependencies, and how to use the assistant. Here's a sample README for your voice assistant project:
 
----
 
-# Romantic Alexa: Your Voice-Activated Assistant
+# Funny Alexa: Your Voice-Activated Assistant
+
+Created by : KUNDURU ISHWARYA
 
 ## Overview
-
-Romantic Alexa is a simple voice-activated assistant built using Python. It can perform various tasks such as playing songs, telling the time, fetching Wikipedia summaries, telling jokes, and more. This assistant uses several libraries to handle speech recognition, text-to-speech, and browser control.
+Alexa is a simple voice-activated assistant built using Python. It can perform various tasks such as playing songs, telling the time, fetching Wikipedia summaries, telling jokes, and more. This assistant uses several libraries to handle speech recognition, text-to-speech, and browser control.
 
 ## Features
 
@@ -64,7 +63,7 @@ pip install pyjokes
 
 - Ensure your microphone is properly configured and working.
 - Make sure you have an active internet connection.
-- If you encounter any issues, check the Python package documentation or raise an issue on the [GitHub repository](https://github.com/yourusername/romantic-alexa/issues).
+- If you encounter any issues, check the Python package documentation or raise an issue on the [GitHub repository](https://github.com/yourusername/Funny-alexa/issues).
 
 ## Contributing
 
@@ -76,8 +75,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to [your email address].
+For questions or feedback, please reach out to [kunduruishwarya30@gmail.com].
 
----
-
-Replace `yourusername` with your GitHub username, and `your email address` with your actual email address if you want to provide contact information. Make sure to include a `LICENSE` file if you're distributing this project and want to specify the terms under which others can use it.
