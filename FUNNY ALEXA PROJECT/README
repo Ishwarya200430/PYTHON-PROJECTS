@@ -2,10 +2,11 @@
 
 # Funny Alexa: Your Voice-Activated Assistant
 
-Created by : KUNDURU ISHWARYA
+created by:KUNDURU ISHWARYA
 
 ## Overview
-Alexa is a simple voice-activated assistant built using Python. It can perform various tasks such as playing songs, telling the time, fetching Wikipedia summaries, telling jokes, and more. This assistant uses several libraries to handle speech recognition, text-to-speech, and browser control.
+
+Romantic Alexa is a simple voice-activated assistant built using Python. It can perform various tasks such as playing songs, telling the time, fetching Wikipedia summaries, telling jokes, and more. This assistant uses several libraries to handle speech recognition, text-to-speech, and browser control.
 
 ## Features
 
@@ -32,7 +33,7 @@ pip install pyjokes
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/Ishwarya200430/Funny Alexa.git
+   git clone https://github.com/yourusername/romantic-alexa.git
    cd romantic-alexa
    ```
 
@@ -63,7 +64,7 @@ pip install pyjokes
 
 - Ensure your microphone is properly configured and working.
 - Make sure you have an active internet connection.
-- If you encounter any issues, check the Python package documentation or raise an issue on the [GitHub repository](https://github.com/yourusername/Funny-alexa/issues).
+- If you encounter any issues, check the Python package documentation or raise an issue on the [GitHub repository](https://github.com/Ishwarya200430/PYTHON_PROJECTS/issues).
 
 ## Contributing
 
@@ -75,5 +76,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to [kunduruishwarya30@gmail.com].
-
+For questions or feedback, please reach out to [kunduruishwarya30@gmail.com]
