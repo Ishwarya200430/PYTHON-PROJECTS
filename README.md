@@ -32,7 +32,7 @@ pip install pyjokes
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/romantic-alexa.git
+   git clone https://github.com/Ishwarya200430/Funny Alexa.git
    cd romantic-alexa
    ```
 
