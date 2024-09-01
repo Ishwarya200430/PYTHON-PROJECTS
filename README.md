@@ -18,13 +18,13 @@ This project provides a simple script that extracts text from a specific page of
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Ishwarya200430/your-repository.git
+   git clone https://github.com/Ishwarya200430/PYTHON-PROJECTS.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd PYTHON PROJECTS 
+   cd  https://github.com/Ishwarya200430/PYTHON-PROJECTS.git
    ```
 
 3. **Install the required libraries:**
